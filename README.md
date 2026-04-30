@@ -4,12 +4,12 @@
 
   <br/>
 
-  <!-- High-Impact Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=200&section=header&text=Harshit%20Goel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <!-- High-Impact Hero Banner (Deep Cyan Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001219,30:005f73,70:0a9396,100:001219&height=220&section=header&text=Harshit%20Goel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20DIT%20University-0078D4?style=for-the-badge&logo=education&logoColor=white" />
-    <img src="https://img.shields.io/badge/CGPA-9.1-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CGPA-9.1-00F7FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/LeetCode-goelharshit006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </p>
 
@@ -51,13 +51,13 @@
       <h4>⚙️ Backend & Systems</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-0055FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST_API-00F7FF?style=flat-square" />
       <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens" />
       <br/><br/>
       <h4>🗄️ Databases & Security</h4>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/RBAC-purple?style=flat-square" />
-      <img src="https://img.shields.io/badge/Aggregation-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/Aggregation-00F7FF?style=flat-square" />
       <img src="https://img.shields.io/badge/Indexing-orange?style=flat-square" />
     </td>
   </tr>
@@ -80,27 +80,28 @@
 ### 🛒 [SmartCart](https://github.com/harshitgoel006) — Production Grade E-Commerce
 *Full-scale multi-vendor system engineered for real-world usage.*
 
-- **🔥 Core Architecture:** 3-Tier RBAC (Admin/Seller/User) | Modular Service-Controller-Model pattern.
+- **🔥 Core Architecture:** 3-Tier RBAC | Modular Service-Controller-Model pattern.
 - **⚙️ Backend:** 15+ REST APIs | MongoDB Aggregation Pipelines | Indexed Search.
-- **📦 Features:** Order lifecycle, Seller Dashboard, Analytics, NodeMailer OTP System.
 - **🚀 Roadmap:** Redis Caching, AI Recommendations, CI/CD with Docker.
 
 ### 📰 [NewsNova](https://github.com/harshitgoel006) — Real-Time News Platform
-*Backend-focused system handling high-frequency data streams.*
-
 - **⚙️ Features:** Multi-API Aggregation, Personalized Feeds, Rate Limiting, JWT Auth.
 - **🧠 Focus:** Clean modular backend structure and scalable API data handling.
 
 ### 🌦️ [SkyCast](https://github.com/harshitgoel006) — Smart Weather Dashboard
-*Interactive intelligence system with fluid user experience.*
-
 - **🎨 UI/UX:** Framer Motion animations, Dynamic Theming based on weather conditions.
 - **⚙️ Features:** Real-time AQI, 7-day forecast, Sun-path tracking visualization.
 
 ---
 
-# 📊 Performance & Analytics
+# 📊 Analytics & Performance
 
+### 🏆 LeetCode Stats
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=goelharshit006&theme=dark" alt="LeetCode Stats" />
+</div>
+
+### 🐙 GitHub Insights
 <div align="center">
   <table border="0">
     <tr>
@@ -115,7 +116,7 @@
 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel006&theme=tokyonight&hide_border=true"/>
   <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgoel006&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgoel006&theme=tokyo-night&hide_border=true&color=00F7FF"/>
 </div>
 
 ---
@@ -125,7 +126,7 @@
     <td width="50%" valign="top">
       <h3>🧩 Problem Solving</h3>
       <img src="https://img.shields.io/badge/DSA-200%2B%20Problems-blue?style=for-the-badge&logo=leetcode" />
-      <p>Continuous learning on LeetCode & specialized in efficient algorithmic logic.</p>
+      <p>Specialized in efficient algorithmic logic and time-complexity optimization.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Developer Mindset</h3>
@@ -145,17 +146,17 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/harshit-goel-73b90b290">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001219,50:005f73,100:000000&height=120&section=footer"/>
   <br/>
   <sub>Built with ⚡ by Harshit Goel</sub>
 </div>
