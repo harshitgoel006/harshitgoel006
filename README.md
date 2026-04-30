@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=260&section=header&text=Harshit%20Goel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h2>🚀 Full Stack Engineer | Backend Specialist | System Design</h2>
+<h2>Full Stack Engineer | Backend Specialist | System Design</h2>
 
 <p>
 <img src="https://img.shields.io/badge/LeetCode-goelharshit006-ff7e5f?style=for-the-badge&logo=leetcode"/>
@@ -14,33 +14,33 @@
 
 ---
 
-# ⚡ Quick Overview
+#  Quick Overview
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-CGPA%209.1-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20Problems%20Solved-550%2B-ff7e5f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20B.Tech%20CSE-CGPA%209.1-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Problems%20Solved-550%2B-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡%20Focus-Backend%20%2B%20System%20Design-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌍%20Open%20Source-Contributor-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Focus-Backend%20%2B%20System%20Design-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Open%20Source-Contributor-ff7e5f?style=for-the-badge"/>
 
 <br/>
 
 <a href="mailto:harshitgoel885@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-harshitgoel885%40gmail.com-1f1c2c?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/%20Email-harshitgoel885%40gmail.com-1f1c2c?style=for-the-badge&logo=gmail"/>
 </a>
 
-<img src="https://img.shields.io/badge/💼%20Status-Open%20for%20SDE%20Internships-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📍%20Location-India-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Status-Open%20for%20SDE%20Internships-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Location-India-ff7e5f?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧠 Snapshot
+## Snapshot
 
 ```diff id="snap88"
 + CGPA: 9.1 (Strong Academic Performance)
@@ -51,7 +51,7 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const harshit = new Developer();
 
 ---
 
-## ⚡ Developer Snapshot
+## Developer Snapshot
 
 <div align="center">
 
@@ -105,7 +105,7 @@ const harshit = new Developer();
 
 ---
 
-## 🧠 What Defines Me
+## What Defines Me
 
 ```diff id="defineDev22"
 + I think in systems, not just components
@@ -132,20 +132,20 @@ const harshit = new Developer();
 
 > Scalable e-commerce backend designed with real-world architecture principles.
 
-### ⚙️ Core Engineering
+###  Core Engineering
 
-* 🔐 Role-Based Access Control (Admin / Seller / User)
-* 🧱 Modular architecture (Controller → Service → Model)
-* 🔄 RESTful API design with clean separation of concerns
-* ⚡ Indexed queries for fast product search
+*  Role-Based Access Control (Admin / Seller / User)
+*  Modular architecture (Controller → Service → Model)
+*  RESTful API design with clean separation of concerns
+*  Indexed queries for fast product search
 
-### 🧠 System Design
+###  System Design
 
-* 🗃 MongoDB Aggregation Pipelines for analytics
-* 🚀 Optimized read/write operations
-* 📦 Inventory + order lifecycle handling
+*  MongoDB Aggregation Pipelines for analytics
+*  Optimized read/write operations
+*  Inventory + order lifecycle handling
 
-### ✨ Features
+###  Features
 
 * Seller dashboard + product management
 * Admin analytics panel
@@ -165,13 +165,13 @@ const harshit = new Developer();
 
 > Smart news system that aggregates, filters, and personalizes content.
 
-### ⚙️ Engineering Highlights
+###  Engineering Highlights
 
-* 🌐 Multi-API aggregation system
-* ⚡ Efficient request handling & caching
-* 🔒 Rate limiting & secure endpoints
+*  Multi-API aggregation system
+*  Efficient request handling & caching
+*  Rate limiting & secure endpoints
 
-### 🧠 Design Thinking
+###  Design Thinking
 
 * Personalized content delivery logic
 * Failover handling for API downtime
@@ -191,13 +191,13 @@ const harshit = new Developer();
 
 > Weather platform delivering live forecasts with smooth UI experience.
 
-### ⚙️ Features
+###  Features
 
-* 🌡 Real-time weather + AQI data
-* 📊 Forecast visualization
-* 🎯 Location-based results
+* Real-time weather + AQI data
+* Forecast visualization
+* Location-based results
 
-### 🎨 Frontend Engineering
+###  Frontend Engineering
 
 * Smooth animations
 * Fully responsive UI
@@ -217,16 +217,16 @@ const harshit = new Developer();
 
 > Personal portfolio focused on clean design + performance + experience.
 
-### ⚙️ Highlights
+###  Highlights
 
-* ⚡ Fast load times
-* 🎨 Clean UI/UX
-* 📱 Fully responsive
-* ✨ Subtle animations
+* Fast load times
+* Clean UI/UX
+* Fully responsive
+* Subtle animations
 
 ---
 
-## 🧠 What Makes These Projects Strong?
+## What Makes These Projects Strong?
 
 ```diff
 + Focus on real-world architecture
@@ -235,7 +235,7 @@ const harshit = new Developer();
 + Not just UI — actual systems built
 ```
 ---
-# ⚒️ Tech Stack & Skills
+# Tech Stack & Skills
 
 ---
 
@@ -248,7 +248,7 @@ const harshit = new Developer();
 
 ---
 
-## 🧠 Core Computer Science
+## Core Computer Science
 
 <div align="center">
 
@@ -260,7 +260,7 @@ const harshit = new Developer();
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 <div align="center">
 
@@ -272,7 +272,7 @@ const harshit = new Developer();
 
 ---
 
-## 🎨 Frontend Development
+## Frontend Development
 
 <div align="center">
 
@@ -286,7 +286,7 @@ const harshit = new Developer();
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <div align="center">
 
@@ -300,7 +300,7 @@ const harshit = new Developer();
 
 ---
 
-## 🗄 Database & Storage
+## Database & Storage
 
 <div align="center">
 
@@ -311,7 +311,7 @@ const harshit = new Developer();
 
 ---
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <div align="center">
 
@@ -326,7 +326,7 @@ const harshit = new Developer();
 
 ---
 
-## 🧰 Development Stack
+## Development Stack
 
 <div align="center">
 
@@ -337,7 +337,7 @@ const harshit = new Developer();
 
 ---
 
-## 🤝 Interpersonal Skills
+## Interpersonal Skills
 
 <div align="center">
 
@@ -348,7 +348,7 @@ const harshit = new Developer();
 
 ---
 
-## 🧠 Engineering Mindset
+## Engineering Mindset
 
 ```diff id="devmindset21"
 + Strong in DSA + backend fundamentals
@@ -359,7 +359,7 @@ const harshit = new Developer();
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -385,7 +385,7 @@ const harshit = new Developer();
 
 ---
 
-## ⚡ Contribution Insights
+## Contribution Insights
 
 <div align="center">
 
@@ -395,7 +395,7 @@ const harshit = new Developer();
 </div>
 ---
 
-# 🧠 LeetCode & Problem Solving
+# LeetCode & Problem Solving
 
 <div align="center">
 
@@ -405,7 +405,7 @@ const harshit = new Developer();
 
 ---
 
-## ⚡ Problem Solving Snapshot
+## Problem Solving Snapshot
 
 <div align="center">
 
@@ -417,46 +417,8 @@ const harshit = new Developer();
 
 ---
 
-## 🏆 Competitive Programming
 
-<div align="center">
-
-<table>
-<tr>
-<th>Platform</th>
-<th>Rating</th>
-<th>Problems Solved</th>
-<th>Key Strengths</th>
-</tr>
-
-<tr>
-<td><b>LeetCode</b></td>
-<td>1800+</td>
-<td>300+</td>
-<td>Graphs • DP • Binary Search</td>
-</tr>
-
-<tr>
-<td><b>Codeforces</b></td>
-<td>1200+</td>
-<td>200+</td>
-<td>Implementation • Math</td>
-</tr>
-
-<tr>
-<td><b>Total</b></td>
-<td>-</td>
-<td>550+</td>
-<td>Consistent Problem Solver</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 🧠 Problem Solving Approach
+## Problem Solving Approach
 
 ```diff id="psolve77"
 + Strong grip on DSA fundamentals
@@ -466,7 +428,7 @@ const harshit = new Developer();
 ```
 ---
 
-# 🧠 Engineering Philosophy
+# Engineering Philosophy
 
 ```diff
 + Clean architecture > messy scaling
@@ -477,7 +439,7 @@ const harshit = new Developer();
 
 ---
 
-# 🤝 Connect
+# Connect
 
 <div align="center">
 
