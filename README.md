@@ -122,7 +122,7 @@ Tools     : Git, Postman, Vercel
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=contest" height="200"/>
+<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=Fira%20Code&ext=contest" height="200"/>
 <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-blue?style=for-the-badge" />
 
 </div>
