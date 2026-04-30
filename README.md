@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshit+Goel;Full+Stack+Developer+(MERN);I+build+systems%2C+not+just+projects;Scalable+Web+Apps+%7C+Clean+Architecture;200%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Harshit+Goel;Full+Stack+Developer+(MERN);I+Build+Scalable+Systems;Backend+%7C+System+Design+Focused" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Harshit%20Goel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Harshit%20Goel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 🎓 B.Tech CSE @ DIT University (CGPA: 9.1)
 
-### 🧠 Systems > Syntax | ⚙️ Performance • Security • Clean Architecture
+### ⚡ Building Systems > Just Writing Code
 
 </div>
 
@@ -25,105 +25,104 @@
 ## 🧠 About Me
 
 ```diff
-+ I build production-level web apps with real-world constraints (auth, scale, data flow)
-+ Strong focus on backend architecture, APIs, and performance
-+ Turning ideas into systems: design → build → optimize → ship
-! Currently deep-diving into System Design & backend scaling
++ I don’t build projects, I build systems
++ Focused on backend architecture & scalable APIs
++ Strong grip on DSA + real-world application logic
+! Currently diving deep into System Design & performance engineering
 ```
 
 ---
 
-## 🏆 Highlights
+## ⚒️ Tech Stack
 
-<div align="center">
+### 🧩 Languages
 
-<img src="https://img.shields.io/badge/DSA-200%2B%20Problems-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-9.1-1abc9c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-8e44ad?style=for-the-badge" />
-
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
 ---
 
-## 🛠️ Tech Stack
+### 🎨 Frontend
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,c,tailwind,git,postman,redux,vercel" />
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
-## ⚙️ What I Work With
+### ⚙️ Backend & Database
 
-```txt
-Frontend  : React.js, Tailwind CSS
-Backend   : Node.js, Express.js
-Database  : MongoDB (Aggregation, Indexing)
-Auth      : JWT, RBAC
-Concepts  : REST APIs, MVC, System Design Basics
-Tools     : Git, Postman, Vercel
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+
+---
+
+### ☁️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 SmartCart — Production Grade E-Commerce Platform
+### 🛒 SmartCart — Production Grade E-Commerce
 
-> Multi-role commerce system engineered for real-world workflows
+```diff
++ Multi-role system (Admin / Seller / User)
++ JWT Authentication + RBAC
++ 15+ REST APIs (Orders, Inventory, Reviews)
++ MongoDB Aggregation + Indexing Optimization
++ Email system (OTP, notifications)
 
-* RBAC (Admin, Seller, User)
-* JWT Auth + secure middleware
-* 15+ REST APIs (products, orders, reviews)
-* MongoDB aggregation pipelines + indexing
-* Email system (OTP, notifications)
-
-**Roadmap**
-
-* Redis caching (low-latency reads)
-* AI-based recommendations
-* Payments (Razorpay/Stripe)
+! Upcoming:
++ Redis caching
++ Payment Integration (Razorpay/Stripe)
++ AI-based recommendations
+```
 
 ---
 
-### 📰 NewsNova — Real-Time News Platform
+### 📰 NewsNova — Full Stack News Platform
 
-> Data-driven news app with scalable backend patterns
-
-* API-based live news ingestion
-* Category filtering + personalized feeds
-* JWT auth + rate limiting
-* Clean modular backend
+```diff
++ Real-time news aggregation using APIs
++ Category filtering + personalized feed
++ JWT authentication + rate limiting
++ Clean backend architecture
+```
 
 ---
 
 ### 🌦️ SkyCast — Weather Dashboard
 
-> Real-time weather intelligence with smooth UI
-
-* Live weather + AQI
-* Hourly & weekly forecasts
-* Responsive + animated UI
+```diff
++ Live weather + AQI data
++ Hourly & 7-day forecast
++ Dynamic animations + responsive UI
++ API integration (OpenWeather)
+```
 
 ---
 
 ### 🌐 Portfolio Website
 
-> Minimal, fast, and responsive personal site
-
-* Clean UI/UX
-* Performance-focused build
+```diff
++ Fully responsive UI
++ Smooth animations
++ Performance optimized
+```
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 DSA & Problem Solving
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=Fira%20Code&ext=contest" height="200"/>
-<img src="https://img.shields.io/badge/Problems%20Solved-200%2B-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-200%2B%20Problems-blue?style=for-the-badge" />
 
 </div>
 
@@ -133,8 +132,8 @@ Tools     : Git, Postman, Vercel
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgoel006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgoel006&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -150,7 +149,7 @@ Tools     : Git, Postman, Vercel
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -160,32 +159,14 @@ Tools     : Git, Postman, Vercel
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harshitgoel006/harshitgoel006/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🧠 Engineering Principles
+## 🧠 Engineering Mindset
 
 ```txt
-• Build for scale, not just for demo
-• Keep APIs clean, predictable, and secure
-• Optimize data access (indexing > brute force)
-• Prefer clarity over cleverness
+• Build for scale, not demo
+• Clean APIs > complex logic
+• Optimize DB before scaling infra
+• Security first mindset
 ```
-
----
-
-## 🧭 Roadmap
-
-* System Design (HLD/LLD)
-* Backend scaling patterns (caching, queues)
-* AI integration in web apps
 
 ---
 
@@ -194,7 +175,7 @@ Tools     : Git, Postman, Vercel
 <div align="center">
 
 <a href="https://linkedin.com/in/harshit-goel-73b90b290">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
