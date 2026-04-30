@@ -55,44 +55,125 @@ const harshit = {
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛒 SmartCart — Production Grade E-Commerce
-
-* Role-based system (Admin / Seller / User)
-* Secure JWT authentication
-* 25+ REST APIs
-* MongoDB aggregation pipelines
-* High-performance search with indexing
-* Seller dashboard + Admin analytics
+# 🚀 Projects Showcase
 
 ---
 
-## 📰 NewsNova — Smart News Platform
+## 🛒 SmartCart — Production Grade E-Commerce System
 
-* Multi-API aggregation
-* Personalized content feed
-* Rate limiting + secure backend
-* Optimized API handling
+<div align="center">
+
+<img src="https://img.shields.io/badge/Architecture-3%20Tier-fb7185?style=flat-square"/>
+<img src="https://img.shields.io/badge/APIs-15+-ff7e5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Auth-JWT-1f1c2c?style=flat-square"/>
+
+</div>
+
+> Scalable e-commerce backend designed with real-world architecture principles.
+
+### ⚙️ Core Engineering
+
+* 🔐 Role-Based Access Control (Admin / Seller / User)
+* 🧱 Modular architecture (Controller → Service → Model)
+* 🔄 RESTful API design with clean separation of concerns
+* ⚡ Indexed queries for fast product search
+
+### 🧠 System Design
+
+* 🗃 MongoDB Aggregation Pipelines for analytics
+* 🚀 Optimized read/write operations
+* 📦 Inventory + order lifecycle handling
+
+### ✨ Features
+
+* Seller dashboard + product management
+* Admin analytics panel
+* Secure authentication & authorization
 
 ---
 
-## 🌦 SkyCast — Weather Intelligence App
+## 📰 NewsNova — Intelligent News Aggregation Platform
 
-* Real-time weather + AQI
-* Forecasting system
-* Animated UI
-* API optimized
+<div align="center">
+
+<img src="https://img.shields.io/badge/API-MultiSource-fb7185?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Optimized-ff7e5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-Rate%20Limit-1f1c2c?style=flat-square"/>
+
+</div>
+
+> Smart news system that aggregates, filters, and personalizes content.
+
+### ⚙️ Engineering Highlights
+
+* 🌐 Multi-API aggregation system
+* ⚡ Efficient request handling & caching
+* 🔒 Rate limiting & secure endpoints
+
+### 🧠 Design Thinking
+
+* Personalized content delivery logic
+* Failover handling for API downtime
+* Optimized response structure
 
 ---
 
-## 🌐 Portfolio Website
+## 🌦 SkyCast — Real-Time Weather Intelligence
 
-* Fully responsive
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data-RealTime-fb7185?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI-Animated-ff7e5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-Optimized-1f1c2c?style=flat-square"/>
+
+</div>
+
+> Weather platform delivering live forecasts with smooth UI experience.
+
+### ⚙️ Features
+
+* 🌡 Real-time weather + AQI data
+* 📊 Forecast visualization
+* 🎯 Location-based results
+
+### 🎨 Frontend Engineering
+
 * Smooth animations
-* Performance optimized
+* Fully responsive UI
+* Performance optimized rendering
 
 ---
+
+## 🌐 Portfolio — Developer Experience Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UI-Modern-fb7185?style=flat-square"/>
+<img src="https://img.shields.io/badge/Animations-Smooth-ff7e5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Performance-Optimized-1f1c2c?style=flat-square"/>
+
+</div>
+
+> Personal portfolio focused on clean design + performance + experience.
+
+### ⚙️ Highlights
+
+* ⚡ Fast load times
+* 🎨 Clean UI/UX
+* 📱 Fully responsive
+* ✨ Subtle animations
+
+---
+
+## 🧠 What Makes These Projects Strong?
+
+```diff
++ Focus on real-world architecture
++ Backend-heavy engineering mindset
++ Performance + scalability prioritized
++ Not just UI — actual systems built
+```
+----
 
 # ⚒️ Tech Stack
 
