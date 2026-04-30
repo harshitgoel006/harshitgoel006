@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Harshit+Goel;Full+Stack+Engineer;Backend+%7C+System+Design;Building+Scalable+Products;Code.+Scale.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=800&color=FB7185&center=true&vCenter=true&width=1000&lines=Harshit+Goel;Full+Stack+Engineer;Backend+%7C+System+Design;Building+Scalable+Products;Code.+Scale.+Repeat." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=240&section=header&text=Harshit%20Goel&fontSize=60&fontColor=38BDF8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=240&section=header&text=Harshit%20Goel&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MERN-STACK-0f172a?style=for-the-badge&logo=mongodb&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/System-Design-1e293b?style=for-the-badge&logo=blueprint&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/LeetCode-goelharshit006-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/MERN-STACK-1f1c2c?style=for-the-badge&logo=mongodb&logoColor=ff7e5f"/>
+<img src="https://img.shields.io/badge/System-Design-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-goelharshit006-ff7e5f?style=for-the-badge&logo=leetcode"/>
 </p>
 
-<h3 style="color:#94A3B8;">⚡ Building Systems That Scale</h3>
+<h3 style="color:#fda4af;">⚡ Building Systems That Scale</h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 </td>
 
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160px"/>
 </td>
 </tr>
 </table>
@@ -41,25 +41,37 @@
 
 # ⚒️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-### Languages
+### 🧩 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/> <sub>C • C++ • Java • JavaScript</sub>
 
-### Frontend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,framer" />
+### 🎨 Frontend
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,framer" /><br/> <sub>React • Next.js • Tailwind • Vite • Framer Motion</sub>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</td>
 
-### DevOps & Tools
+<td width="50%" align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+### ⚙️ Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/> <sub>Node.js • Express • MongoDB</sub>
+
+<br/>
+
+### ☁️ Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /><br/> <sub>Docker • Git • GitHub • Vercel • Postman</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,62 +81,62 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 SmartCart — Production Grade E-Commerce
+### 🛒 SmartCart
 
 🔗 Repo: https://github.com/harshitgoel006
 
-**🧠 Architecture**
+**Architecture**
 
 * RBAC (Admin / Seller / User)
-* Modular backend (Controller → Service → Model)
+* Modular backend
 * JWT Authentication
 
-**⚙️ Backend**
+**Backend**
 
 * 15+ REST APIs
-* MongoDB Aggregation Pipelines
-* Indexed search (optimized queries)
+* Aggregation pipelines
+* Indexed queries
 
-**📦 Features**
+**Features**
 
 * Seller dashboard
-* Inventory + Order management
+* Order system
 * Admin analytics
-* Email OTP auth system
+* OTP auth
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📰 NewsNova — Real-Time News Platform
+### 📰 NewsNova
 
 🔗 Repo: https://github.com/harshitgoel006
 
 * Multi API aggregation
-* Personalized feed system
-* JWT + Rate limiting
+* Personalized feed
+* JWT + rate limiting
 * Scalable backend
 
 ---
 
-### 🌦️ SkyCast — Weather Dashboard
+### 🌦️ SkyCast
 
 🔗 Repo: https://github.com/harshitgoel006
 
-* Real-time weather + AQI
-* 7-day forecast
-* Dynamic UI (day/night)
-* Smooth animations
+* Weather + AQI
+* Forecast
+* Dynamic UI
+* Animations
 
 ---
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio
 
 🔗 Repo: https://github.com/harshitgoel006
 
-* Fully responsive
-* Modern UI + animations
-* Performance optimized
+* Responsive
+* Modern UI
+* Optimized
 
 </td>
 </tr>
@@ -136,17 +148,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgoel006&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgoel006&theme=tokyonight" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgoel006&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgoel006&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel006&theme=tokyonight&hide_border=true" width="47%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel006&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgoel006&theme=tokyonight" width="47%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgoel006&theme=tokyonight" width="47%"/>
 
 </div>
 
@@ -156,7 +168,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="95%"/>
 
 </div>
 
@@ -178,11 +190,11 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/harshit-goel-73b90b290">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1f1c2c?style=for-the-badge&logo=linkedin&logoColor=ff7e5f"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=120&section=footer"/>
 
 </div>
