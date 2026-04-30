@@ -16,41 +16,102 @@
 
 # ⚡ Quick Overview
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-* 🎓 B.Tech CSE — CGPA **9.1**
-* 🧠 550+ Problems Solved
-* 🏆 LeetCode: **200+**
-* ⚡ Backend + System Design Focus
-* 🌍 Open Source Contributor
+<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-CGPA%209.1-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Problems%20Solved-550%2B-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
 
-</td>
-<td>
+<br/>
 
-* 📧 **[harshitgoel885@gmail.com](mailto:harshitgoel885@gmail.com)**
-* 💼 Open for SDE Internships
-* 🛠 Building Production Systems
-* 📍 India
+<img src="https://img.shields.io/badge/⚡%20Focus-Backend%20%2B%20System%20Design-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Open%20Source-Contributor-ff7e5f?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<a href="mailto:harshitgoel885@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-harshitgoel885%40gmail.com-1f1c2c?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://img.shields.io/badge/💼%20Status-Open%20for%20SDE%20Internships-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍%20Location-India-ff7e5f?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🧠 Snapshot
+
+```diff id="snap88"
++ CGPA: 9.1 (Strong Academic Performance)
++ Solved 550+ DSA Problems
++ Backend + System Design Focused
++ Actively building production-ready systems
+```
 
 ---
 
 # 🧠 About Me
 
-```js
-const harshit = {
-  role: "Full Stack Developer (Backend Focused)",
-  cgpa: "9.1",
-  skills: ["System Design", "APIs", "Scalable Architecture"],
-  problemSolving: "200+ problems",
-  currentFocus: ["Backend Scaling", "Real-Time Systems", "AI Integration"],
-  mindset: "Build systems that last, not just projects"
-};
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Focused-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.1-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-System%20First-1f1c2c?style=for-the-badge"/>
+
+</div>
+
+---
+
+```javascript id="abtme77"
+class Developer {
+  constructor() {
+    this.name = "Harshit Goel";
+    this.role = "Full Stack Developer (Backend Focused)";
+    this.cgpa = "9.1";
+
+    this.skills = [
+      "System Design",
+      "REST APIs",
+      "Scalable Architecture"
+    ];
+
+    this.problemSolving = "200+ problems";
+
+    this.currentFocus = [
+      "Backend Scaling",
+      "Real-Time Systems",
+      "AI Integration"
+    ];
+
+    this.mindset = "Build systems that last, not just projects";
+  }
+}
+
+const harshit = new Developer();
+```
+
+---
+
+## ⚡ Developer Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-200%2B%20Problems-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-System%20Design-1f1c2c?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🧠 What Defines Me
+
+```diff id="defineDev22"
++ I think in systems, not just components
++ I focus on performance before scaling
++ I prefer clean architecture over shortcuts
++ I build things that can handle real users
 ```
 
 ---
@@ -334,23 +395,75 @@ const harshit = {
 </div>
 ---
 
-# 🧠 LeetCode Progress
+# 🧠 LeetCode & Problem Solving
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="85%"/>
 
 </div>
 
 ---
 
-# 🏆 Competitive Programming
+## ⚡ Problem Solving Snapshot
 
-| Platform   | Rating | Highlights    |
-| ---------- | ------ | ------------- |
-| LeetCode   | 200+   | 200+ problems |
+<div align="center">
 
+<img src="https://img.shields.io/badge/Total%20Problems-550+-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-200+-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-DSA%20%2B%20Patterns-1f1c2c?style=for-the-badge"/>
 
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<th>Platform</th>
+<th>Rating</th>
+<th>Problems Solved</th>
+<th>Key Strengths</th>
+</tr>
+
+<tr>
+<td><b>LeetCode</b></td>
+<td>1800+</td>
+<td>300+</td>
+<td>Graphs • DP • Binary Search</td>
+</tr>
+
+<tr>
+<td><b>Codeforces</b></td>
+<td>1200+</td>
+<td>200+</td>
+<td>Implementation • Math</td>
+</tr>
+
+<tr>
+<td><b>Total</b></td>
+<td>-</td>
+<td>550+</td>
+<td>Consistent Problem Solver</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🧠 Problem Solving Approach
+
+```diff id="psolve77"
++ Strong grip on DSA fundamentals
++ Focus on patterns over memorization
++ Consistent practice across platforms
++ Ability to break complex problems into smaller parts
+```
 ---
 
 # 🧠 Engineering Philosophy
