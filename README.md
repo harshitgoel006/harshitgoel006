@@ -1,186 +1,168 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=800&color=FB7185&center=true&vCenter=true&width=1000&lines=Harshit+Goel;Full+Stack+Engineer;Backend+%7C+System+Design;Building+Scalable+Products;Code.+Scale.+Repeat." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=260&section=header&text=Harshit%20Goel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=240&section=header&text=Harshit%20Goel&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<h2>🚀 Full Stack Engineer | Backend Specialist | System Design</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/MERN-STACK-1f1c2c?style=for-the-badge&logo=mongodb&logoColor=ff7e5f"/>
-<img src="https://img.shields.io/badge/System-Design-fb7185?style=for-the-badge"/>
+<p>
 <img src="https://img.shields.io/badge/LeetCode-goelharshit006-ff7e5f?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/CGPA-9.1-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1f1c2c?style=for-the-badge"/>
 </p>
 
-<h3 style="color:#fda4af;">⚡ Building Systems That Scale</h3>
-
 </div>
+
+---
+
+# ⚡ Quick Overview
+
+<table>
+<tr>
+<td>
+
+* 🎓 B.Tech CSE — CGPA **9.1**
+* 🧠 550+ Problems Solved
+* 🏆 LeetCode: **200+**
+* ⚡ Backend + System Design Focus
+* 🌍 Open Source Contributor
+
+</td>
+<td>
+
+* 📧 **[harshitgoel885@gmail.com](mailto:harshitgoel885@gmail.com)**
+* 💼 Open for SDE Internships
+* 🛠 Building Production Systems
+* 📍 India
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧠 About Me
 
-<table>
-<tr>
-<td width="60%">
-
-```diff
-+ Backend-focused full stack developer
-+ I build scalable & production-ready systems
-+ Strong in DSA + system design fundamentals
-+ Focus: Performance, Security, Clean Architecture
+```js
+const harshit = {
+  role: "Full Stack Developer (Backend Focused)",
+  cgpa: "9.1",
+  skills: ["System Design", "APIs", "Scalable Architecture"],
+  problemSolving: "200+ problems",
+  currentFocus: ["Backend Scaling", "Real-Time Systems", "AI Integration"],
+  mindset: "Build systems that last, not just projects"
+};
 ```
 
-</td>
+---
 
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160px"/>
-</td>
-</tr>
-</table>
+# 🚀 Featured Projects
+
+## 🛒 SmartCart — Production Grade E-Commerce
+
+* Role-based system (Admin / Seller / User)
+* Secure JWT authentication
+* 25+ REST APIs
+* MongoDB aggregation pipelines
+* High-performance search with indexing
+* Seller dashboard + Admin analytics
+
+---
+
+## 📰 NewsNova — Smart News Platform
+
+* Multi-API aggregation
+* Personalized content feed
+* Rate limiting + secure backend
+* Optimized API handling
+
+---
+
+## 🌦 SkyCast — Weather Intelligence App
+
+* Real-time weather + AQI
+* Forecasting system
+* Animated UI
+* API optimized
+
+---
+
+## 🌐 Portfolio Website
+
+* Fully responsive
+* Smooth animations
+* Performance optimized
 
 ---
 
 # ⚒️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" align="center">
+### 💻 Languages
 
-### 🧩 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/> <sub>C • C++ • Java • JavaScript</sub>
-
-<br/>
+`C` `Java` `JavaScript`
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,framer" /><br/> <sub>React • Next.js • Tailwind • Vite • Framer Motion</sub>
-
-</td>
-
-<td width="50%" align="center">
+`React.js` `Next.js` `Tailwind CSS` `Framer Motion` `Vite`
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/> <sub>Node.js • Express • MongoDB</sub>
+`Node.js` `Express.js` `REST APIs` `JWT Auth` `Middleware`
 
-<br/>
+### 🗄 Databases
 
-### ☁️ Tools
+`MongoDB` `PostgreSQL` `Firebase`
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /><br/> <sub>Docker • Git • GitHub • Vercel • Postman</sub>
+### 🤖 AI / Tools
 
-</td>
-</tr>
-</table>
+`OpenRouter API` `Gemini` `LLaMA` `Recharts`
 
----
+### ☁️ DevOps
 
-# 🚀 Projects Showcase
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 SmartCart
-
-🔗 Repo: https://github.com/harshitgoel006
-
-**Architecture**
-
-* RBAC (Admin / Seller / User)
-* Modular backend
-* JWT Authentication
-
-**Backend**
-
-* 15+ REST APIs
-* Aggregation pipelines
-* Indexed queries
-
-**Features**
-
-* Seller dashboard
-* Order system
-* Admin analytics
-* OTP auth
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📰 NewsNova
-
-🔗 Repo: https://github.com/harshitgoel006
-
-* Multi API aggregation
-* Personalized feed
-* JWT + rate limiting
-* Scalable backend
+`Docker` `GitHub Actions` `Vercel` `Render`
 
 ---
 
-### 🌦️ SkyCast
-
-🔗 Repo: https://github.com/harshitgoel006
-
-* Weather + AQI
-* Forecast
-* Dynamic UI
-* Animations
-
----
-
-### 🌐 Portfolio
-
-🔗 Repo: https://github.com/harshitgoel006
-
-* Responsive
-* Modern UI
-* Optimized
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgoel006&theme=tokyonight" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel006&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitgoel006&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel006&theme=tokyonight&hide_border=true" width="47%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgoel006&theme=tokyonight" width="47%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgoel006&theme=tokyonight" width="47%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgoel006&theme=tokyonight" width="96%"/>
 
 </div>
 
 ---
 
-# 🏆 LeetCode Stats
+# 🧠 LeetCode Progress
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="95%"/>
+<img src="https://leetcard.jacoblin.cool/goelharshit006?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="90%"/>
 
 </div>
 
 ---
 
-# 🧠 Mindset
+# 🏆 Competitive Programming
+
+| Platform   | Rating | Highlights    |
+| ---------- | ------ | ------------- |
+| LeetCode   | 200+   | 200+ problems |
+
+
+---
+
+# 🧠 Engineering Philosophy
 
 ```diff
-+ Build systems, not just UI
-+ Optimize before scaling
-+ Clean code > clever code
-+ Consistency > motivation
++ Clean architecture > messy scaling
++ Performance matters
++ Backend defines product quality
++ Consistency beats motivation
 ```
 
 ---
@@ -189,12 +171,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/harshit-goel-73b90b290">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-1f1c2c?style=for-the-badge&logo=linkedin&logoColor=ff7e5f"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-fb7185?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=120&section=footer"/>
+<a href="mailto:goelharshit006@gmail.com">
+<img src="https://img.shields.io/badge/Email-goelharshit006%40gmail.com-ff7e5f?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:fb7185,100:ff7e5f&height=120&section=footer"/>
