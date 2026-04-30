@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Harshit%20Goel&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <h3>🚀 Full Stack Developer | System Architect | Performance Enthusiast</h3>
+  <h3>🚀 Full-Stack Engineer | System Architect | UI/UX Enthusiast</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20DIT%20University-0078D4?style=for-the-badge&logo=education&logoColor=white" />
@@ -10,50 +10,58 @@
   </p>
 
   <p align="center">
-    <strong>Focused on scalable backend architecture & premium UI/UX design.</strong>
+    <strong>Engineering scalable backends with a premium front-end finish.</strong>
   </p>
 </div>
 
 ---
 
-### 🧠 The Engineering Philosophy
-> "I don't just build projects — I engineer systems. I focus on the intersection of clean API design, scalable database architecture, and fluid, purposeful user experiences."
+### 🧠 The Engineering & Design Philosophy
+> "I don't just build apps — I engineer systems where performance meets aesthetics."
 
-*   **System Design:** Obsessed with performance engineering, caching, and distributed systems.
-*   **Problem Solving:** Strong Data Structures & Algorithms foundation with a real-world application mindset.
-*   **Clean Code:** Prioritizing maintainability and security over "clever" hacks.
+*   **System Architecture:** Focused on scalable backend logic, modular service patterns, and database optimization.
+*   **UI/UX & Motion:** Specialized in **Glassmorphic interfaces** and purposeful animations using **Framer Motion**.
+*   **Clean Code:** Prioritizing maintainability, security, and the "balanced & elegant" professional look.
 
 ---
 
-### 🛠️ Tech Stack (Deep Dive)
+### 🎨 Design & Interaction Stack
+*Bringing interfaces to life with precision and fluid motion.*
+
+- **Visuals:** High-contrast Dark Themes, Glassmorphism, and Minimalist Layouts.
+- **Animations:** Framer Motion (orchestration, layout transitions), CSS Keyframes.
+- **UX Strategy:** Mobile-first responsiveness, Skeleton loaders, and Micro-interactions.
+
+---
+
+### ⚒️ Tech Stack (Deep Dive)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `JavaScript (ES6+)`, `TypeScript`, `C++`, `Java`, `SQL` |
 | **Frontend** | `React.js`, `Redux Toolkit`, `Tailwind CSS`, `Framer Motion`, `Next.js` |
 | **Backend** | `Node.js`, `Express.js`, `REST APIs`, `JWT`, `Socket.io` |
-| **Databases** | `MongoDB (Aggregation Pipelines)`, `Redis`, `PostgreSQL`, `MySQL` |
-| **DevOps** | `Docker`, `AWS (EC2/S3)`, `Vercel`, `Git/GitHub`, `CI/CD` |
+| **Databases** | `MongoDB (Aggregation Pipelines)`, `Redis`, `PostgreSQL` |
+| **DevOps** | `Docker`, `AWS`, `Vercel`, `Git/GitHub`, `CI/CD` |
 
 ---
 
 ### 🚀 Featured Engineering Projects
 
-#### 🛒 **SmartCart — Production-Grade E-Commerce Platform**
-*A high-performance multi-vendor ecosystem built for scale.*
-*   **Architecture:** 3-Tier RBAC (Admin/Seller/User) with a modular Service-Controller-Model pattern.
-*   **Backend:** Optimized queries via **MongoDB Aggregation Pipelines** and indexed collections for sub-100ms search.
-*   **Features:** Secure JWT-based middleware, real-time inventory control, and OTP-verified authentication.
+#### 🛒 **SmartCart — Production-Grade E-Commerce**
+*A premium multi-vendor system focusing on RBAC and data performance.*
+- **UI/UX:** Refined, non-flashy navigation with balanced glassmorphic elements.
+- **Engineering:** Modular Service-Controller-Model architecture with **MongoDB Aggregation Pipelines**.
+- **Security:** Secure JWT-based middleware and OTP-verified authentication.
 
-#### 📰 **NewsNova — Real-Time News Intelligence**
-*Backend-focused system handling concurrent data streams from multiple news APIs.*
-*   **Core Logic:** Implemented efficient rate-limiting and custom filtering algorithms for personalized feeds.
-*   **Tech:** Node.js, Express, News API integration, and modular data handling.
+#### 🌦️ **SkyCast — Weather Intelligence Dashboard**
+*Visualizing weather dynamics through fluid interaction design.*
+- **Motion:** Dynamic theme shifting based on weather and sun-path tracking animations.
+- **Logic:** Real-time AQI and 7-day forecast visualization using interactive charts.
 
-#### 🌦️ **SkyCast — Weather Analytics Dashboard**
-*Visualizing weather intelligence with a focus on premium interaction design.*
-*   **UX:** Glassmorphic UI with smooth **Framer Motion** animations and sun-path tracking.
-*   **Data:** Real-time AQI and 7-day forecast visualization using interactive charts.
+#### 📰 **NewsNova — Real-Time News Platform**
+*Backend-heavy system handling concurrent API data streams.*
+- **Focus:** Efficient rate-limiting, custom filtering algorithms, and clean modular backend structure.
 
 ---
 
@@ -76,15 +84,14 @@
 
 ---
 
-### 🤝 Connect & Collaborate
-I’m always open to discussing system architecture, MERN stack performance, or potential collaborations.
+### 🤝 Let's Build Something Resilient
+I am currently diving deep into **Distributed Systems** and **Performance Engineering**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-goel-73b90b290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/goelharshit006"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <sub>Built with ⚡ and a passion for scalable systems.</sub>
+  <sub>Designed for performance. Built for the web.</sub>
 </div>
