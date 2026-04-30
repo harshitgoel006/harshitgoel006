@@ -19,7 +19,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/%20B.Tech%20CSE-CGPA%209.1-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Problems%20Solved-550%2B-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Problems%20Solved-200%2B-ff7e5f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
 
 <br/>
@@ -44,7 +44,7 @@
 
 ```diff id="snap88"
 + CGPA: 9.1 (Strong Academic Performance)
-+ Solved 550+ DSA Problems
++ Solved 200+ DSA Problems
 + Backend + System Design Focused
 + Actively building production-ready systems
 ```
@@ -116,7 +116,7 @@ const harshit = new Developer();
 
 ---
 
-# 🚀 Projects Showcase
+# Projects Showcase
 
 ---
 
@@ -409,7 +409,7 @@ const harshit = new Developer();
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Problems-550+-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total%20Problems-200+-fb7185?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LeetCode-200+-ff7e5f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-DSA%20%2B%20Patterns-1f1c2c?style=for-the-badge"/>
 
@@ -447,8 +447,8 @@ const harshit = new Developer();
 <img src="https://img.shields.io/badge/LinkedIn-Connect-fb7185?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:goelharshit006@gmail.com">
-<img src="https://img.shields.io/badge/Email-goelharshit006%40gmail.com-ff7e5f?style=for-the-badge&logo=gmail"/>
+<a href="mailto:harshitgoel885@gmail.com">
+<img src="https://img.shields.io/badge/Email-harshitgoel885%40gmail.com-ff7e5f?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
