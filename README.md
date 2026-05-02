@@ -148,7 +148,7 @@ app.get("/admin",
     res.json({ message: "Welcome Admin " });
   }
 );
-````
+```
 
 ### Links
 
@@ -203,7 +203,7 @@ app.get("/admin",
 + Backend-heavy engineering mindset
 + Scalable & production-oriented systems
 ```
-````
+```
 
 # Tech Stack & Skills
 
