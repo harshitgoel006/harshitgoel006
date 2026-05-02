@@ -149,6 +149,7 @@ app.get("/admin",
   }
 );
 
+```
 
 ### Links
 
@@ -203,7 +204,7 @@ app.get("/admin",
 + Backend-heavy engineering mindset
 + Scalable & production-oriented systems
 ```
-```
+
 
 # Tech Stack & Skills
 
