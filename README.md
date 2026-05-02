@@ -120,121 +120,100 @@ const harshit = new Developer();
 
 ---
 
-## 🛒 SmartCart — Production Grade E-Commerce System
+## 🔐 Auth Kit — Production Ready Express Authentication Middleware
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Architecture-3%20Tier-fb7185?style=flat-square"/>
-<img src="https://img.shields.io/badge/APIs-15+-ff7e5f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Auth-JWT-1f1c2c?style=flat-square"/>
+<img src="https://img.shields.io/badge/npm-%40goelharshit006%2Fauth--kit-fb7185?style=flat-square&logo=npm"/>
+<img src="https://img.shields.io/badge/Auth-JWT-ff7e5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-RBAC-1f1c2c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Production%20Ready-fb7185?style=flat-square"/>
 
 </div>
 
+> A reusable authentication & authorization middleware built for real-world Express applications.
+
+### ⚙️ Features
+
+- JWT-based authentication  
+- Role-Based Access Control (RBAC)  
+- Flexible token extraction (headers, cookies)  
+- Plug-and-play middleware (`authenticate`, `authorize`)  
+- Centralized error handling  
+
+### 📦 Usage
+
+```js
+import { createAuth, authorize } from "@goelharshit006/auth-kit";
+
+const auth = createAuth({
+  secret: process.env.JWT_SECRET
+});
+
+app.get("/admin",
+  auth.authenticate,
+  authorize(["admin"]),
+  (req, res) => {
+    res.json({ message: "Welcome Admin 🚀" });
+  }
+);
+````
+
+### 🔗 Links
+
+* 📦 NPM: [https://www.npmjs.com/package/@goelharshit006/auth-kit](https://www.npmjs.com/package/@goelharshit006/auth-kit)
+* 💻 GitHub: [https://github.com/harshitgoel006/auth-kit](https://github.com/harshitgoel006/auth-kit)
+
+---
+
+## 🛒 SmartCart — Production Grade E-Commerce System
+
 > Scalable e-commerce backend designed with real-world architecture principles.
 
-###  Core Engineering
+### Core Engineering
 
-*  Role-Based Access Control (Admin / Seller / User)
-*  Modular architecture (Controller → Service → Model)
-*  RESTful API design with clean separation of concerns
-*  Indexed queries for fast product search
-
-###  System Design
-
-*  MongoDB Aggregation Pipelines for analytics
-*  Optimized read/write operations
-*  Inventory + order lifecycle handling
-
-###  Features
-
-* Seller dashboard + product management
-* Admin analytics panel
-* Secure authentication & authorization
+* Role-Based Access Control (Admin / Seller / User)
+* Modular architecture (Controller → Service → Model)
+* RESTful API design
+* Indexed queries for fast product search
 
 ---
 
 ## 📰 NewsNova — Intelligent News Aggregation Platform
 
-<div align="center">
+> Smart news system that aggregates and personalizes content.
 
-<img src="https://img.shields.io/badge/API-MultiSource-fb7185?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Optimized-ff7e5f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-Rate%20Limit-1f1c2c?style=flat-square"/>
-
-</div>
-
-> Smart news system that aggregates, filters, and personalizes content.
-
-###  Engineering Highlights
-
-*  Multi-API aggregation system
-*  Efficient request handling & caching
-*  Rate limiting & secure endpoints
-
-###  Design Thinking
-
-* Personalized content delivery logic
-* Failover handling for API downtime
-* Optimized response structure
+* Multi-API aggregation
+* Rate limiting & caching
+* Failover handling
 
 ---
 
 ## 🌦 SkyCast — Real-Time Weather Intelligence
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data-RealTime-fb7185?style=flat-square"/>
-<img src="https://img.shields.io/badge/UI-Animated-ff7e5f?style=flat-square"/>
-<img src="https://img.shields.io/badge/API-Optimized-1f1c2c?style=flat-square"/>
-
-</div>
-
-> Weather platform delivering live forecasts with smooth UI experience.
-
-###  Features
-
-* Real-time weather + AQI data
-* Forecast visualization
-* Location-based results
-
-###  Frontend Engineering
-
+* Real-time weather + AQI
+* Responsive UI
 * Smooth animations
-* Fully responsive UI
-* Performance optimized rendering
 
 ---
 
 ## 🌐 Portfolio — Developer Experience Platform
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/UI-Modern-fb7185?style=flat-square"/>
-<img src="https://img.shields.io/badge/Animations-Smooth-ff7e5f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Performance-Optimized-1f1c2c?style=flat-square"/>
-
-</div>
-
-> Personal portfolio focused on clean design + performance + experience.
-
-###  Highlights
-
-* Fast load times
 * Clean UI/UX
-* Fully responsive
-* Subtle animations
+* Performance optimized
+* Responsive design
 
 ---
 
-## What Makes These Projects Strong?
+## 💡 What Makes These Projects Strong?
 
 ```diff
-+ Focus on real-world architecture
++ Real-world architecture focus
 + Backend-heavy engineering mindset
-+ Performance + scalability prioritized
-+ Not just UI — actual systems built
++ Scalable & production-oriented systems
 ```
----
+````
+
 # Tech Stack & Skills
 
 ---
