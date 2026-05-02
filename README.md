@@ -122,18 +122,9 @@ const harshit = new Developer();
 
 ## 🔐 Auth Kit — Production Ready Express Authentication Middleware
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/npm-%40goelharshit006%2Fauth--kit-fb7185?style=flat-square&logo=npm"/>
-<img src="https://img.shields.io/badge/Auth-JWT-ff7e5f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-RBAC-1f1c2c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Production%20Ready-fb7185?style=flat-square"/>
-
-</div>
-
 > A reusable authentication & authorization middleware built for real-world Express applications.
 
-### ⚙️ Features
+### Features
 
 - JWT-based authentication  
 - Role-Based Access Control (RBAC)  
@@ -141,7 +132,7 @@ const harshit = new Developer();
 - Plug-and-play middleware (`authenticate`, `authorize`)  
 - Centralized error handling  
 
-### 📦 Usage
+### Usage
 
 ```js
 import { createAuth, authorize } from "@goelharshit006/auth-kit";
@@ -154,15 +145,15 @@ app.get("/admin",
   auth.authenticate,
   authorize(["admin"]),
   (req, res) => {
-    res.json({ message: "Welcome Admin 🚀" });
+    res.json({ message: "Welcome Admin " });
   }
 );
 ````
 
-### 🔗 Links
+### Links
 
-* 📦 NPM: [https://www.npmjs.com/package/@goelharshit006/auth-kit](https://www.npmjs.com/package/@goelharshit006/auth-kit)
-* 💻 GitHub: [https://github.com/harshitgoel006/auth-kit](https://github.com/harshitgoel006/auth-kit)
+* NPM: [https://www.npmjs.com/package/@goelharshit006/auth-kit](https://www.npmjs.com/package/@goelharshit006/auth-kit)
+* GitHub: [https://github.com/harshitgoel006/auth-kit](https://github.com/harshitgoel006/auth-kit)
 
 ---
 
