@@ -122,7 +122,7 @@ const harshit = new Developer();
 
 ## 🔐 Auth Kit — Production Ready Express Authentication Middleware
 
-> A reusable authentication & authorization middleware built for real-world Express applications.
+> A reusable authentication & authorization middleware (npm Package) built for real-world Express applications.
 
 ### Features
 
