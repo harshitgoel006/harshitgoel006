@@ -122,6 +122,10 @@ const harshit = new Developer();
 
 ## 🔐 Auth Kit — Production Ready Express Authentication Middleware
 
+[![npm version](https://img.shields.io/npm/v/@goelharshit006/auth-kit)](https://www.npmjs.com/package/@goelharshit006/auth-kit)
+[![npm downloads](https://img.shields.io/npm/dm/@goelharshit006/auth-kit)](https://www.npmjs.com/package/@goelharshit006/auth-kit)
+[![license](https://img.shields.io/npm/l/@goelharshit006/auth-kit)](LICENSE)
+
 > A reusable authentication & authorization middleware (npm Package) built for real-world Express applications.
 
 ### Features
