@@ -162,6 +162,57 @@ app.get("/admin",
 
 ---
 
+## 🚀 API Kit — Production Ready Express API Utilities Toolkit
+
+[![npm version](https://img.shields.io/npm/v/@goelharshit006/api-kit)](https://www.npmjs.com/package/@goelharshit006/api-kit)
+[![npm downloads](https://img.shields.io/npm/dm/@goelharshit006/api-kit)](https://www.npmjs.com/package/@goelharshit006/api-kit)
+[![license](https://img.shields.io/npm/l/@goelharshit006/api-kit)](LICENSE)
+
+> A lightweight and reusable Express.js utility toolkit built for scalable and production-ready APIs.
+
+### Features
+
+- Centralized error handling  
+- Async route wrapper  
+- Standardized API responses  
+- Response helper methods  
+- Pagination utilities  
+- Query builder helpers  
+- Field filtering utility  
+- Lightweight & dependency-free  
+
+### Usage
+
+```js
+import {
+  asyncHandler,
+  responseEnhancer,
+  ApiError
+} from "@goelharshit006/api-kit";
+
+app.use(responseEnhancer);
+
+app.get("/",
+  asyncHandler(async (req, res) => {
+
+    return res.success(
+      { status: "running" },
+      "API working"
+    );
+
+  })
+);
+````
+
+### Links
+
+* NPM: [https://www.npmjs.com/package/@goelharshit006/api-kit](https://www.npmjs.com/package/@goelharshit006/api-kit)
+* GitHub: [https://github.com/harshitgoel006/api-kit](https://github.com/harshitgoel006/api-kit)
+
+
+
+---
+
 ## 🛒 SmartCart — Production Grade E-Commerce System
 
 > Scalable e-commerce backend designed with real-world architecture principles.
