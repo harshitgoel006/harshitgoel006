@@ -19,8 +19,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/%20B.Tech%20CSE-CGPA%209.0-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Problems%20Solved-200%2B-ff7e5f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Problems%20Solved-250%2B-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20LeetCode-250%2B-1f1c2c?style=for-the-badge"/>
 
 <br/>
 
@@ -97,7 +97,7 @@ const harshit = new Developer();
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-200%2B%20Problems-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-250%2B%20Problems-fb7185?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-ff7e5f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Interest-System%20Design-1f1c2c?style=for-the-badge"/>
 
