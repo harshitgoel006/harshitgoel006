@@ -6,8 +6,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/LeetCode-goelharshit006-ff7e5f?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/CGPA-9.0-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.1-fb7185?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1f1c2c?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshitgoel006&label=Profile%20Views&color=fb7185&style=for-the-badge"/>
 </p>
 
 </div>
