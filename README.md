@@ -43,8 +43,8 @@
 ## Snapshot
 
 ```diff id="snap88"
-+ CGPA: 9.1 (Strong Academic Performance)
-+ Solved 200+ DSA Problems
++ CGPA: 9.0 (Strong Academic Performance)
++ Solved 250+ DSA Problems
 + Backend + System Design Focused
 + Actively building production-ready systems
 ```
