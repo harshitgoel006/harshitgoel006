@@ -6,7 +6,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/LeetCode-goelharshit006-ff7e5f?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/CGPA-9.1-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.0-fb7185?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1f1c2c?style=for-the-badge"/>
 </p>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%20B.Tech%20CSE-CGPA%209.1-fb7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20B.Tech%20CSE-CGPA%209.0-fb7185?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%20Problems%20Solved-200%2B-ff7e5f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%20LeetCode-200%2B-1f1c2c?style=for-the-badge"/>
 
@@ -56,7 +56,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Backend-Focused-fb7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-9.1-ff7e5f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.0-ff7e5f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mindset-System%20First-1f1c2c?style=for-the-badge"/>
 
 </div>
@@ -68,7 +68,7 @@ class Developer {
   constructor() {
     this.name = "Harshit Goel";
     this.role = "Full Stack Developer (Backend Focused)";
-    this.cgpa = "9.1";
+    this.cgpa = "9.0";
 
     this.skills = [
       "System Design",
@@ -76,7 +76,7 @@ class Developer {
       "Scalable Architecture"
     ];
 
-    this.problemSolving = "200+ problems";
+    this.problemSolving = "250+ problems";
 
     this.currentFocus = [
       "Backend Scaling",
@@ -123,7 +123,7 @@ const harshit = new Developer();
 ## 🔐 Auth Kit — Production Ready Express Authentication Middleware
 
 [![npm version](https://img.shields.io/npm/v/@goelharshit006/auth-kit)](https://www.npmjs.com/package/@goelharshit006/auth-kit)
-[![npm downloads](https://img.shields.io/npm/dm/@goelharshit006/auth-kit)](https://www.npmjs.com/package/@goelharshit006/auth-kit)
+[![npm downloads](https://img.shields.io/npm/dt/@goelharshit006/auth-kit)](https://www.npmjs.com/package/@goelharshit006/auth-kit)
 [![license](https://img.shields.io/npm/l/@goelharshit006/auth-kit)](LICENSE)
 
 > A reusable authentication & authorization middleware (npm Package) built for real-world Express applications.
@@ -165,7 +165,7 @@ app.get("/admin",
 ## 🚀 API Kit — Production Ready Express API Utilities Toolkit
 
 [![npm version](https://img.shields.io/npm/v/@goelharshit006/api-kit)](https://www.npmjs.com/package/@goelharshit006/api-kit)
-[![npm downloads](https://img.shields.io/npm/dm/@goelharshit006/api-kit)](https://www.npmjs.com/package/@goelharshit006/api-kit)
+[![npm downloads](https://img.shields.io/npm/dt/@goelharshit006/api-kit)](https://www.npmjs.com/package/@goelharshit006/api-kit)
 [![license](https://img.shields.io/npm/l/@goelharshit006/api-kit)](LICENSE)
 
 > A lightweight and reusable Express.js utility toolkit built for scalable and production-ready APIs.
